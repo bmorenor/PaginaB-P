@@ -1,0 +1,117 @@
+{
+    "sizeC": [
+        {
+            "type": "MINIATURA",
+            "races": [
+                "Yorkshire terrier",
+                "Chihuahua",
+                "Caniche toy",
+                "Papillón",
+                "Bull terrier inglés miniatura",
+                "Pomerania",
+                "Bichón maltés",
+                "Bichón maltés",
+                "Lebrel italiano",
+                "Crestado chino",
+                "Pekinés",
+                "Affenpinscher",
+                "Yorkie poo",
+                "Maltipoo",
+                "Pinscher miniatura",
+                "Pomsky",
+                "Teddy roosevelt terrier",
+                "Mal-shi",
+                "Chorkie"
+            ]
+        },
+        {
+            "type": "PEQUE�O",
+            "races": [
+                "Bull terrier miniatura",
+                "Bull dog francés",
+                "Cavalier king charles spaniel",
+                "Cirneco del etna",
+                "Jack russell terrier",
+                "Perros schnauzer",
+                "Shiba inu",
+                "Pug carlino",
+                "Xoloitzcuintle",
+                "Whippet",
+                "Pastor australiano miniatura",
+                "Teckel de pelo largo",
+                "Shitzu o shih tzu",
+                "Lhasa apso",
+                "Westie o westh highland white terrier",
+                "Cairn terrier",
+                "Boston terrier",
+                "Beagle",
+                "Cocker spaniel",
+                "Corgi"
+            ]
+        },
+        {
+            "type": "MEDIANO",
+            "races": [
+                "Dálmata",
+                "Galgo español",
+                "Pastor ovejero australiano",
+                "Perro aguas español",
+                "Bóxer",
+                "Perro de agua portugués",
+                "Husky siberiano",
+                "Border collie",
+                "Basset h pachón navarroound",
+                "Bull dog american bully inglés",
+                "Amstaff",
+                "Tigre andino de dos narices",
+                "Shar pei",
+                "Perro lobo herreño",
+                "Perros pitbull americanos (apbt)",
+                "Staffordshire bull terrier"
+            ]
+        },
+        {
+            "type": "GRANDE",
+            "races": [
+                "Akita inu",
+                "Doberman",
+                "Pastor alemán blanco",
+                "Dogo argentino",
+                "Pastor belga malinois",
+                "Akita americano",
+                "Bobtail",
+                "Cane corso",
+                "Perro de san huberto",
+                "Labrador negro",
+                "Pastor alemán",
+                "Pastor belga",
+                "Golden retriever",
+                "Rottweiler",
+                "Perro lobo checoslovaco"
+            ]
+        },
+        {
+            "type": "MUY-GRANDE",
+            "races": [
+                "San bernardo",
+                "Presa canario",
+                "Tosa inu",
+                "Komondor",
+                "Boyero de berna",
+                "Bullmastiff",
+                "Dogo de burdeos",
+                "Mastín inglés",
+                "Pastor caucásico",
+                "Fila brasileiro",
+                "Lobero irlandés",
+                "Gran danés",
+                "Terranova",
+                "Kangal turco",
+                "Boerboel",
+                "Mastín tibetano"
+            ]
+        }
+
+    ]
+    
+}

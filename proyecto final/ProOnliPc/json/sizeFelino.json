@@ -1,0 +1,64 @@
+{
+    "sizeF": [
+        {
+            "type": "MINIATURA",
+            "races": [
+                "Singapura",
+                "Skookum",
+                "Devon rex",
+                "Korat",
+                "Munchkin"
+            ]
+        },
+        {
+            "type": "PEQUE�O",
+            "races": [
+                "Curl americano",
+                "Gatos munchkin",
+                "Pequeño siamés",
+                "Bombay",
+                "Balinés",
+                "Gato egipcio",
+                "Scottish fold",
+                "Bobtail japonés",
+                "Xoloitzcuintle",
+                "Whippet",
+                "Abisino"
+            ]
+        },
+        {
+            "type": "MEDIANO",
+            "races": [
+                "khao manee",
+                "highland fold",
+                "bobtail americano",
+                "ural rex",
+                "cymric",
+                "bobtail japonés",
+                "toyger",
+                "american wirehair"
+            ]
+        },
+        {
+            "type": "GRANDE",
+            "races": [
+                "Ragamuffin",
+                "Cheetoh",
+                "Selkirk Rex",
+                "Bosque de Noruega",
+                "Chausie",
+                "Van Turco"
+            ]
+        },
+        {
+            "type": "MUY-GRANDE",
+            "races": [
+                "Maine Coon",
+                "Highlander",
+                "Caniche",
+                "Bengala",
+                "persa gigante"
+            ]
+        }
+    ]
+}
